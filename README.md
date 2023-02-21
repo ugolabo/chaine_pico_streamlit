@@ -4,6 +4,8 @@
 
 <img src="img/model1.jpg" alt="" width="400">
 
+[Voir le applications](#application-g%C3%A9n%C3%A9rale) plus bas.
+
 ## Diagrammes de déploiement
 
 <img src="img/diagramme_deploiement_wifi.png" alt="" width="700">

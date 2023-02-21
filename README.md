@@ -6,6 +6,6 @@
 
 ## Diagrammes de déploiement
 
-<img src="img/diagramme_deploiement_wifi.jpg" alt="" width="400">
+<img src="img/diagramme_deploiement_wifi.png" alt="" width="400">
 
 Le protocole WiFi est idéal pour démarrer avec quelques nœuds afin de tester la chaine. Or, dans ce genre de montage, le volume de données est très petit (quelques bits à chaque 10 minutes ou chaque heure, par exemples) et les nœuds peuvent être distribués sur de longues portées. Ces portées nécessitent plusieurs répéteurs WiFi pour acheminer les données vers la passerelle WiFi; ce qui augmente les coûts. Ces portées sont trop longues pour le Bluetooth.

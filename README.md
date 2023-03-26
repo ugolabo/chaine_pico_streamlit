@@ -4,20 +4,7 @@
 
 <img src="img/model1.jpg" alt="" width="400">
 
-Le tableau de bord Streamlit (<a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers site</a>).  
-[Voir les applications de ce genre de projet](#application-g%C3%A9n%C3%A9rale) plus bas.
-
-## Diagrammes de déploiement
-
-<img src="img/diagramme_deploiement_wifi.png" alt="" width="700">
-
-Le protocole WiFi est idéal pour démarrer avec quelques nœuds afin de tester la chaine. Or, dans ce genre de montage, le volume de données est très petit (quelques bits à chaque 10 minutes ou chaque heure, par exemples) et les nœuds peuvent être distribués sur de longues portées. Ces portées nécessitent plusieurs répéteurs WiFi pour acheminer les données vers la passerelle WiFi; ce qui augmente les coûts. Ces portées sont trop longues pour le Bluetooth.
-
-<img src="img/reseaux.jpg" alt="" width="500">
-
-Le protocole idéal est le LoRa. Ce dernier permet de déployer de nombreux nœuds sur une large superficie et de concentrer les faibles volumes de données sur une seule passerelle sans utiliser des répéteurs.
-
-<img src="img/diagramme_deploiement_lora.png" alt="" width="700">
+Le tableau de bord Streamlit (<a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers site</a>).   L'Accueil du site offre une description avec des diagrammes de déploiement
 
 ## Application générale
 

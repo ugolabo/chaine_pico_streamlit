@@ -4,7 +4,7 @@
 
 <img src="img/model1.jpg" alt="" width="400">
 
-[Voir le applications](#application-g%C3%A9n%C3%A9rale) plus bas.
+[Voir les applications de ce genre de projet](#application-g%C3%A9n%C3%A9rale) plus bas.
 
 ## Diagrammes de déploiement
 

@@ -4,7 +4,7 @@
 
 <img src="img/model1.jpg" alt="" width="400">
 
-Le tableau de bord Streamlit (<a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers site</a>)
+Le tableau de bord Streamlit (<a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers site</a>).  
 [Voir les applications de ce genre de projet](#application-g%C3%A9n%C3%A9rale) plus bas.
 
 ## Diagrammes de déploiement

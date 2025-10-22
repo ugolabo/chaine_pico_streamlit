@@ -4,6 +4,8 @@ Le projet est une chaine calquée sur le modèle d'AIoICanada : un objet connec
 
 <img src="img/model1.jpg" alt="" width="800">
 
+<img src="img/model2.jpg" alt="" width="800">
+
 Cette architecture en réseau permet de décentraliser le traitement des données pour d'éviter de surcharger les communications. La majorité des calculs se font sur chaque noeud dans le réseau. Chaque noeud communique un résultat à une instance central. Si les données brutes sont des températures enregistrées à chaque 10s, les statistiques peuvent être des températures moyennes communiquées à chaque heure. 
 
 Avec un exemple plus avancé impliquant de l'IA, chaque noeud se charge de transformer les images captées par une caméra embarquée en nombres discrets (0, rien ; 1, présent ; 2, surplus ; etc.). Le noeud ne fait que communiquer un état (0, 1, 2, etc.) à l'instance centrale.

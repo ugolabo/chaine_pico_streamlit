@@ -18,7 +18,7 @@ Un aperçu de la structure avec un Wi-Fi.
 
 ## Organisation du répertoire et exécution
 
-À défaut de tout documenter, voici le point d'arrivée: un tableau de bord Streamlit (<a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers site</a>).
+À défaut de tout documenter, voici le point d'arrivée: un tableau de bord Streamlit (bouton droit vers : <a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/" target="_blank">site</a>).
 
 La page Accueil du site offre une description et plus de diagrammes de déploiement.
 
